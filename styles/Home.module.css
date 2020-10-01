@@ -5,7 +5,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-image: url("../wald.jpg");
   background-color: blueviolet;
+  color: whitesmoke;
 }
 
 .main {
